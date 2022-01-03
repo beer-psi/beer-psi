@@ -22,6 +22,11 @@ I'm a hobbyist coder who's interested in many things, namely rhythm games and ja
 [![beerpiss's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerpiss&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beerpiss&layout=compact&langs_count=6&hide=assembly,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## contacts
+- Discord: beerpsi#9146
+- Reddit: /u/mrlacpeanut
+- Email: beerpsi<at>duck<dot>com
 <!--
 **beerpiss/beerpiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
