@@ -26,7 +26,7 @@ I'm a hobbyist coder who's interested in many things, namely rhythm games and ja
 ## contacts
 - Discord: beerpsi#9146
 - Reddit: /u/mrlacpeanut
-- Email: beerpsi<at>duck<dot>com
+- Email: [beerpsi\<at\>duck\<dot\>com](mailto:beerpsi@duck.com)
 <!--
 **beerpiss/beerpiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
