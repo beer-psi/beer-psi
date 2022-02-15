@@ -14,6 +14,8 @@ I'm a hobbyist coder who's interested in many things, namely rhythm games and ja
 | [Scoop bucket](https://github.com/beerpiss/scoop-bucket)                             | Personal Scoop bucket where I store [Scoop](https://scoop.sh) manifests not found elsewhere (evkey, adguardhome, etc.)                        |
 | [discord-pass-changer](https://github.com/beerpiss/discord-pass-changer)             | Automatically cycles your Discord password as a way to protect against token loggers.                                                         |
 | [discord-hide-blocked-messages](https://github.com/beerpiss/hide-blocked-messages)   | [Powercord](https://powercord.dev/) plugin that hides the "x messages blocked" indicator from those you've blocked.                           |
+| [procursus-action](https://github.com/beerpiss/procursus-action)                     | GitHub action to bootstrap and install packages from [Procursus](https://github.com/ProcursusTeam/Procursus), with optional bootstrap caching.  |
+| [theos-action](https://github.com/beerpiss/theos-action)                     | GitHub action to install [Theos](https://theos.dev) and SDKs, with optional caching for better speed.                                            |
 
 ## contributions
 - I sometimes contribute information to [Canister](https://github.com/cnstr/manifests), a next-generation search engine for jailbreaking.
@@ -21,7 +23,7 @@ I'm a hobbyist coder who's interested in many things, namely rhythm games and ja
 ## stats
 [![beerpiss's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerpiss&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beerpiss&layout=compact&langs_count=6&hide=assembly,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beerpiss&layout=compact&langs_count=6&hide=assembly,css,html,scss,swift&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## contacts
 - Discord: beerpsi#9146
