@@ -18,7 +18,8 @@ I'm a hobbyist coder who's interested in many things, namely rhythm games and ja
 | [theos-action](https://github.com/beerpiss/theos-action)                     | GitHub action to install [Theos](https://theos.dev) and SDKs, with optional caching for better speed.                                            |
 
 ## contributions
-- I sometimes contribute information to [Canister](https://github.com/cnstr/manifests), a next-generation search engine for jailbreaking.
+- [Canister](https://github.com/cnstr/manifests), a next-generation search engine for jailbreaking.
+- [Procursus](https://github.com/ProcursusTeam/Procursus), a build-system that provides a large set of consistently up-to-date \*nix tools cross compiled to work on Darwin based platforms.
 
 ## stats
 [![beerpiss's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerpiss&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
