@@ -4,7 +4,9 @@
 ## about me
 I'm a hobbyist coder who's interested in many things, namely rhythm games and jailbreaking.
 
-## projects
+<details>
+  <summary>Projects</summary>
+
 | Project                                                                              | Description                                                                                                                                   |
 |--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | [Combatting Jailbreak Detection](https://github.com/joshuah345/joshuah345.github.io) | A website and Flask API aimed at recording how to bypass jailbreak detection in apps.<br>Co-authored with [joshuah345](https://github.com/joshuah345)                                                         |
@@ -16,7 +18,8 @@ I'm a hobbyist coder who's interested in many things, namely rhythm games and ja
 | [discord-hide-blocked-messages](https://github.com/beerpiss/hide-blocked-messages)   | [Powercord](https://powercord.dev/) plugin that hides the "x messages blocked" indicator from those you've blocked.                           |
 | [procursus-action](https://github.com/beerpiss/procursus-action)                     | GitHub action to bootstrap and install packages from [Procursus](https://github.com/ProcursusTeam/Procursus), with optional bootstrap caching.  |
 | [theos-action](https://github.com/beerpiss/theos-action)                     | GitHub action to install [Theos](https://theos.dev) and SDKs, with optional caching for better speed.                                            |
-
+</details>
+  
 ## contributions
 - [Canister](https://github.com/cnstr/manifests), a next-generation search engine for jailbreaking.
 - [Procursus](https://github.com/ProcursusTeam/Procursus), a build-system that provides a large set of consistently up-to-date \*nix tools cross compiled to work on Darwin based platforms.
@@ -24,7 +27,7 @@ I'm a hobbyist coder who's interested in many things, namely rhythm games and ja
 ## stats
 [![beerpiss's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerpiss&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beerpiss&layout=compact&langs_count=6&hide=assembly,css,html,scss,swift&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beerpiss&layout=compact&langs_count=6&hide=assembly,css,html,scss,swift,emacs%20lisp,vim%20script&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## contacts
 - Discord: beerpsi#9146
