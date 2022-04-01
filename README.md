@@ -4,21 +4,23 @@
 ## about me
 I'm a hobbyist coder who's interested in many things, namely rhythm games and jailbreaking.
 
-<details>
-  <summary>Projects</summary>
+### iOS projects
 
 | Project                                                                              | Description                                                                                                                                   |
 |--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | [Hekatos](https://github.com/hekatos)                                                | Bypassing jailbreak detection in apps.<br>Co-authored with [joshuah345](https://github.com/joshuah345)                                                         |
-| [aptDL](https://github.com/beerpiss/aptDL)                                           | Cydia repo downloader in PowerShell Core, with support for [Sileo's Payment Providers API](https://developer.getsileo.app/payment-providers). |
-| [aptDL.py](https://github.com/beerpiss/aptDL.py)                                     | Same thing as above, just written in Python.                                                                                                  |
+| [aptDL](https://github.com/beerpiss/aptDL)<br>[aptDL.py](https://github.com/beerpiss/aptDL.py)                                           | MobileAPT repo downloader, with support for [Sileo's Payment Providers API](https://developer.getsileo.app/payment-providers). |
+| [extraire](https://github.com/beerpiss/extraire) | Dumps SHSH blobs from jailbroken iOS devices with valid generators.
 | [sh0wer](https://github.com/beerpiss/sh0wer)                                         | A minimal and fast Linux distribution for jailbreaking iOS devices with checkra1n.                                                            |
+| [procursus-action](https://github.com/beerpiss/procursus-action)                     | GitHub action to bootstrap and install packages from [Procursus](https://github.com/ProcursusTeam/Procursus), with optional bootstrap caching.  |
+| [theos-action](https://github.com/beerpiss/theos-action)                     | GitHub action to install [Theos](https://theos.dev) and SDKs, with optional caching for better speed.                                            |
+
+### Others
+| Project                                                                              | Description                                                                                                                                   |
+|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | [Scoop bucket](https://github.com/beerpiss/scoop-bucket)                             | Personal Scoop bucket where I store [Scoop](https://scoop.sh) manifests not found elsewhere (evkey, adguardhome, etc.)                        |
 | [discord-pass-changer](https://github.com/beerpiss/discord-pass-changer)             | Automatically cycles your Discord password as a way to protect against token loggers.                                                         |
 | [discord-hide-blocked-messages](https://github.com/beerpiss/hide-blocked-messages)   | [Powercord](https://powercord.dev/) plugin that hides the "x messages blocked" indicator from those you've blocked.                           |
-| [procursus-action](https://github.com/beerpiss/procursus-action)                     | GitHub action to bootstrap and install packages from [Procursus](https://github.com/ProcursusTeam/Procursus), with optional bootstrap caching.  |
-| [theos-action](https://github.com/beerpiss/theos-action)                     | GitHub action to install [Theos](https://theos.dev) and SDKs, with optional caching for better speed.                                            |
-</details>
   
 ## contributions
 - [Canister](https://github.com/cnstr/manifests), a next-generation search engine for jailbreaking.
