@@ -18,6 +18,7 @@ I'm a hobbyist coder who's interested in many things, namely rhythm games and ja
 ### Others
 | Project                                                                              | Description                                                                                                                                   |
 |--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| [timeparse.js](https://github.com/beerpiss/timeparse.js) | Small library to parse various time expressions. This is a port of [pytimeparse](https://github.com/wroberts/pytimeparse) with extra month support. |
 | [movecord](https://github.com/beerpiss/movecord)   | [discord.ts](https://github.com/oceanroleplay/discord.ts) bot to transfer messages between one channel and another.                           |
 | [Enmity plugins](https://github.com/beerpiss/enmity) | Plugins I've written for [Enmity](https://github.com/enmity-mod), a Discord modding platform for iOS.
 | [Scoop bucket](https://github.com/beerpiss/scoop-bucket)                             | Personal Scoop bucket where I store [Scoop](https://scoop.sh) manifests not found elsewhere (evkey, adguardhome, etc.)                        |
