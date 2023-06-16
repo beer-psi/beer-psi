@@ -1,5 +1,5 @@
 ## about me
-random hobbyist shitcoder
+![toàn code chôm](https://cdn.discordapp.com/attachments/1089787955633192970/1119136861294690375/image-212.png)
 
 ## stats
 [![beerpiss's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerpiss&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
