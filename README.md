@@ -1,14 +1,10 @@
 ## about me
-![toàn code chôm](https://cdn.discordapp.com/attachments/1089787955633192970/1119136861294690375/image-212.png)
+I'm beerpsi (he/they). My interests mostly include web scraping, building bots, manga, and rhythm games.
 
-## stats
-[![beerpiss's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerpiss&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beerpiss&layout=compact&langs_count=6&hide=assembly,css,html,scss,swift,emacs%20lisp,vim%20script,objective-c,logos,asl&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=py,rust,kotlin,go,powershell,js,ts,wasm,bots)](https://skillicons.dev)
 
 ## contacts
-- Discord: beerpsi#1116
-- Reddit: /u/mrlacpeanut
+- Discord: beerpsi
 - Email: [beerpsi\<at\>duck\<dot\>com](mailto:beerpsi@duck.com)
 <!--
 **beerpiss/beerpiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
