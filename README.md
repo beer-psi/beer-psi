@@ -1,12 +1,44 @@
 ## about me
-I'm beerpsi (he/they). My interests mostly include web scraping, building bots, manga, and rhythm games.
+I'm beerpsi (he/they), a programmer and rhythm game enthusiast.
 
-[![My Skills](https://skillicons.dev/icons?i=py,rust,kotlin,go,powershell,js,ts,wasm,bots)](https://skillicons.dev)
+I can work with various programming languages, but my preferred ones are C#, TypeScript, Rust,
+and especially Python, my primary language of choice for most personal projects.
+
+Outside of programming, I like to listen to music, read manga and play RPGs.
+
+I am also currently looking for a job. If you find me suitable, please [contact over email](#contacts).
 
 ![](https://raw.githubusercontent.com/beerpiss/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![]()
 ![](https://raw.githubusercontent.com/beerpiss/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![]()
+
+## projects
+This is a list of projects I have released.
+
+### <img src="https://skillicons.dev/icons?i=py,discord,bots,sqlite" height="32" /> [chuninewbot](https://github.com/beerpiss/chuninewbot)
+A Discord bot enabling easy discussions and score-sharing around the arcade rhythm game CHUNITHM. This is currently my largest
+and most active project, used by 100+ servers across SEA and Australia, the currently supported region of the game.
+
+### <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,html,js" height="32" /> [tachiyomi-unofficial-extensions](https://github.com/beerpiss/tachiyomi-unofficial-extensions)
+Personal extensions for a family of manga-reading app called Tachiyomi (prominent fork being [Mihon](https://mihon.app)). Showcases my
+work with reverse-engineering (sometimes minified and obfuscated) JavaScript and Java, web scraping, and Kotlin development.
+
+### <img src="https://skillicons.dev/icons?i=nodejs,ts,express" height="32" /> [kozukata-toa](https://gitea.tendokyu.moe/beerpsi/kozukata-toa)
+A server for running old arcade games that are no longer in live service, therefore contributing to their preservation.
+
+## collaborative projects
+This is a list of projects I have contributed to or are a part of.
+
+### <img src="https://skillicons.dev/icons?i=go" height="32" /> [aidoku-cli](https://github.com/Aidoku/aidoku-cli)
+A CLI toolkit to simplify development of plugins for [Aidoku](https://aidoku.app), a manga-reading app for iOS.
+
+### <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,html,js" height="32" /> [Keiyoushi](https://keiyoushi.github.io)
+A project dedicated to continued maintenance of extensions for Tachiyomi/[Mihon](https://mihon.app). 
+
+### <img src="https://skillicons.dev/icons?i=ts,react,mongodb" height="32" /> [Tachi](https://tachi.ac)
+A powerful, modern rhythm game score tracker. I maintain support for CHUNITHM (and occasionally maimai DX with [Rylie](https://github.com/j1nxie))
+on there.
 
 ## contacts
 - Discord: beerpsi
