@@ -43,6 +43,10 @@ on there.
 ## contacts
 - Discord: beerpsi
 - Email: [beerpsi\<at\>duck\<dot\>com](mailto:beerpsi@duck.com)
+
+----
+
+if you like what i do, consider donating on [ko-fi](https://ko-fi.com/beerpsi_). it helps me a lot!
 <!--
 **beerpiss/beerpiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
