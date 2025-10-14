@@ -16,16 +16,16 @@ I am also currently looking for a job. If you find me suitable, please [contact 
 ## projects
 This is a list of projects I have released.
 
-### <img src="https://skillicons.dev/icons?i=py,discord,bots,sqlite" height="32" /> [chuninewbot](https://github.com/beerpiss/chuninewbot)
+### <img src="https://skillicons.dev/icons?i=py,discord,bots,sqlite" height="32" /> [chuni-penguin](https://github.com/beer-psi/chuni-penguin)
 A Discord bot enabling easy discussions and score-sharing around the arcade rhythm game CHUNITHM. This is currently my largest
 and most active project, used by 100+ servers across SEA and Australia, the currently supported region of the game.
 
-### <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,html,js" height="32" /> [tachiyomi-unofficial-extensions](https://github.com/beerpiss/tachiyomi-unofficial-extensions)
+### <img src="https://skillicons.dev/icons?i=py,discord" height="32" /> [discord-ext-track-edits](https://github.com/beer-psi/discord-ext-track-edits)
+Edit tracking support for discord.py bots. Update bot responses as the invocation message gets edited.
+
+### <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,html,js" height="32" /> [tachiyomi-unofficial-extensions](https://github.com/beer-psi/tachiyomi-unofficial-extensions)
 Personal extensions for a family of manga-reading app called Tachiyomi (prominent fork being [Mihon](https://mihon.app)). Showcases my
 work with reverse-engineering (sometimes minified and obfuscated) JavaScript and Java, web scraping, and Kotlin development.
-
-### <img src="https://skillicons.dev/icons?i=nodejs,ts,express" height="32" /> [kozukata-toa](https://gitea.tendokyu.moe/beerpsi/kozukata-toa)
-A server for running old arcade games that are no longer in live service, therefore contributing to their preservation.
 
 ## collaborative projects
 This is a list of projects I have contributed to or are a part of.
