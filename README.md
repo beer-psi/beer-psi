@@ -6,7 +6,7 @@ and especially Python, my primary language of choice for most personal projects.
 
 Outside of programming, I like to listen to music, read manga and play RPGs.
 
-I am also currently looking for a job. If you find me suitable, please [contact over email](#contacts).
+<!-- I am also currently looking for a job. If you find me suitable, please [contact over email](#contacts). -->
 
 ![](https://raw.githubusercontent.com/beerpiss/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![]()
